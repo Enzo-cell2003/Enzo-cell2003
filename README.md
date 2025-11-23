@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Enzo
 
-- 🎓 Tenho **22 anos**  
+- 🎓 Tenho **22 anos**,  moro em Brasília
 - 📚 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UDF**  
 - 🚀 Gosto de aprender e enfrentar novos desafios  
 - 💻 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em **programação**  
