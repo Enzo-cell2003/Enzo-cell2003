@@ -5,6 +5,7 @@
 - 🚀 Gosto de aprender e enfrentar novos desafios  
 - 💻 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em **programação**  
 - 🏗️ Em busca de evoluir em **arquitetura de sistemas** e **boas práticas**
+- 👨🏻‍💼 Atualmente estou trabalhando de recepcionista no **Comfort Suites Brasilia**
 
 ---
 
